@@ -1,5 +1,4 @@
-
-# Tight Verification of Probabilistic Safety in Bayesian Neural Networks
+# Tight Verification of Probabilistic Robustness in Bayesian Neural Networks
 
 #### This file explain how to set up the environment and run the experiments in Section 4 of the paper.
 
@@ -35,4 +34,14 @@ python3 combined_verifier.py --net_name wick_MNIST_1_128 --implementation wicker
 #### To run our method on CIFAR10 CNN run:
 ```bash
 python3 combined_verifier.py --net_name CIFAR10 --epsilon 0.0
+```
+
+#### For citing the paper or the tool, please use
+```
+@inproceedings{BattenHL24,
+  title     = {Tight Verification of Probabilistic Robustness in Bayesian Neural Networks},
+  author    = {Batten, Ben and Hosseini, Mehran and Lomuscio, Alessio},
+  booktitle = {The 27th International Conference on Artificial Intelligence and Statistics, {AISTATS}},
+  year      = {2024}
+}
 ```
