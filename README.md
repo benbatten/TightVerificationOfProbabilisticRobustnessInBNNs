@@ -1,6 +1,6 @@
 # Tight Verification of Probabilistic Robustness in Bayesian Neural Networks
 
-#### This file explain how to set up the environment and run the experiments in Section 4 of the paper.
+#### This file explain how to set up the environment and run the experiments in our paper on the verification of Beysian Neural Networks (BNNs), accepted in AISTATS 2024. The paper can be be accessed at [arxiv.org/abs/2401.11627](https://arxiv.org/abs/2401.11627).
 
 ## Setting Up
 
