@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.22.4"
+scipy = "==1.8.1"
+pathos = "*"
+numba = "*"
+tensorflow = "==2.9.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
