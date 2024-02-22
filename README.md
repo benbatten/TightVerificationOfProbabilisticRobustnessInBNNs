@@ -37,8 +37,8 @@ python3 combined_verifier.py --net_name CIFAR10 --epsilon 0.0
 ```
 
 
-
-#### For citing the paper or the tool, please use
+## Citing the Paper
+#### For citing the paper or the tool, please use:
 ```
 @inproceedings{BattenHL24,
   title     = {Tight Verification of Probabilistic Robustness in Bayesian Neural Networks},
