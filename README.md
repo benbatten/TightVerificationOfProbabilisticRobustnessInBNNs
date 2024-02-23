@@ -1,6 +1,6 @@
 # Tight Verification of Probabilistic Robustness in Bayesian Neural Networks
 
-## Abstract
+#### Abstract
 We introduce two algorithms for computing
 tight guarantees on the probabilistic robust-
 ness of Bayesian Neural Networks (BNNs).
