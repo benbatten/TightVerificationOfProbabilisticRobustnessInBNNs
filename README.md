@@ -73,6 +73,7 @@ python3 combined_verifier.py --net_name CIFAR10 --epsilon 0.0
   title     = {Tight Verification of Probabilistic Robustness in Bayesian Neural Networks},
   author    = {Batten, Ben and Hosseini, Mehran and Lomuscio, Alessio},
   booktitle = {The 27th International Conference on Artificial Intelligence and Statistics, {AISTATS}},
+  volume    = {238},
   year      = {2024}
 }
 ```
